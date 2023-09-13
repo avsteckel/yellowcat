@@ -1,0 +1,46 @@
+     1  ################ spreslt1 ##############   410 Characters of TEXT
+     2  ################ spreslt1 ##############   147 Characters of TEXT
+     3  ################ spreslt1 ##############    41 Characters of TEXT
+     4  ################ spreslt1 ##############    41 Characters of TEXT
+     5  ..                                          41 Characters of TEXT
+     6  Wavelengths in microns 168 ch PIKAIRa      168  00:00:00.00  02/17/2023      6     12
+     7  ..                                          41 Characters of TEXT
+     8  ..                                          41 Characters of TEXT
+     9  ..                                          41 Characters of TEXT
+    10  ..                                          41 Characters of TEXT
+    11  ..                                          41 Characters of TEXT
+    12  Resolution  in microns 168 ch PIKAIRa      168  00:00:00.00  02/17/2023      6     12
+    13  ..                                          41 Characters of TEXT
+    14  ..                                          41 Characters of TEXT
+    15  ..                                          41 Characters of TEXT
+    16  ..                                          41 Characters of TEXT
+    17  ..                                          41 Characters of TEXT
+    18  Data value = channel number (168 ch)       168  00:00:00.00  11/24/****      6     12
+    19  ..                                          41 Characters of TEXT
+    20  ..                                          41 Characters of TEXT
+    21  ..                                          41 Characters of TEXT
+    22  ..                                          41 Characters of TEXT
+    23  ..                                          41 Characters of TEXT
+    24  ..                                          41 Characters of TEXT
+    25  pD26 g2 howlite                  av21615   168  14:35:36.00  09/05/2023      0      0
+    26  pD26 g2 slf_alunite_na.all       av42244   168  14:36:02.00  09/05/2023      0      0
+    27  pD26 g2 slf-mix_gypsum.tr.dust+d av71136   168  14:36:31.00  09/05/2023      0      0
+    28  pD26 g2 slf-mix_gypsum.tr.dust+d av37249   168  14:36:57.00  09/05/2023      0      0
+    29  pD26 g2 slf_na82alun100c         av24093   168  14:37:20.00  09/05/2023      0      0
+    30  pD26 g2 slf_na63alun300c         av8356    168  14:37:42.00  09/05/2023      0      0
+    31  pD26 g2 slf_alunite_int-comp.all av8362    168  14:38:03.00  09/05/2023      0      0
+    32  pD26 g2 elbaite                  av1455    168  14:38:24.00  09/05/2023      0      0
+    33  pD26 g2 slf_ammonjarosite        av7993    168  14:38:45.00  09/05/2023      0      0
+    34  pD26 g1.3 oh1.432_phy-vermiculi av156383   168  14:39:26.00  09/05/2023      0      0
+    35  pD26 g1.3 oh1.390_phy-ksg-endell av11405   168  14:39:48.00  09/05/2023      0      0
+    36  pD26 g1.3 oh1.406_silica-opal    av3405    168  14:40:09.00  09/05/2023      0      0
+    37  pD26 g1.4 ohb1.449slf-schwertm  av160466   168  14:40:51.00  09/05/2023      0      0
+    38  pD26 g1.4 ohb1.410_kaolgrp-hallo av12129   168  14:41:13.00  09/05/2023      0      0
+    39  pD26 g1.4 ohb1.455zeolt-natrolit av28811   168  14:41:37.00  09/05/2023      0      0
+    40  pD26 g1.4 ohb1.447slf-gypsum     av9011    168  14:41:59.00  09/05/2023      0      0
+    41  pD26 g1.4 ohb1.435_tourmaline    av3531    168  14:42:20.00  09/05/2023      0      0
+    42  pD26 g1.5 ohc1.471slf-jarosite-k av95517   168  14:42:53.00  09/05/2023      0      0
+    43  pD26 g1.5 ohc1.455zeolt-natrolit av81415   168  14:43:24.00  09/05/2023      0      0
+    44  pD26 g1.5 ohc1.464slf-bloedite   av32308   168  14:43:48.00  09/05/2023      0      0
+    45  pD26 g1.5 ohc1.451_hydroxide-gib av2944    168  14:44:09.00  09/05/2023      0      0
+ done
