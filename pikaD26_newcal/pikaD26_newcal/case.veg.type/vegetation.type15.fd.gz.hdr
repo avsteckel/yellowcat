@@ -1,0 +1,15 @@
+ENVI
+description = {
+  vegetation.type15 (LeafySpurge-A F*DShdr1      
+  }
+ samples =          320
+ lines   =          702
+ bands   =            1
+ header offset =          320
+file compression = 1
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = spectral data
+byte order = 0
+wavelength units = Micrometers

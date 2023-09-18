@@ -1,0 +1,1627 @@
+EDinfo3:  group   0 catchall     material   1   is ENABLED:                  vegetation1                                       
+EDinfo3:      g   0              material   1 featuee  1  is ENABLED
+EDinfo3:      g   0              material   1 featuee  2  is ENABLED
+EDinfo3:      g   0              material   1 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material   2   is ENABLED:                  vegetation.dry+green                              
+EDinfo3:      g   0              material   2 featuee  1  ---------- is DISABLED
+EDinfo3:      g   0              material   2 featuee  2  ---------- is DISABLED
+EDinfo3:      g   0              material   2 featuee  3  ---------- is DISABLED
+EDinfo3:      g   0              material   2 featuee  4  ---------- is DISABLED
+EDinfo3:      g   0              material   2 featuee  5  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material   3 ----------- is DISABLED:  ID= snow.and.ice-77k                        
+EDinfo3
+EDinfo3:  group   0 catchall     material   4 ----------- is DISABLED:  ID= snow.and.ice-170k                       
+EDinfo3
+EDinfo3:  group   0 catchall     material   5 ----------- is DISABLED:  ID= snow.melting.1a                         
+EDinfo3
+EDinfo3:  group   0 catchall     material   6 ----------- is DISABLED:  ID= snow.melting.3                          
+EDinfo3
+EDinfo3:  group   0 catchall     material   7 ----------- is DISABLED:  ID= snow.melting.8                          
+EDinfo3
+EDinfo3:  group   0 catchall     material   8 ----------- is DISABLED:  ID= snow.slush.9                            
+EDinfo3
+EDinfo3:  group   0 catchall     material   9 ----------- is DISABLED:  ID= snow.slush.16                           
+EDinfo3
+EDinfo3:  group   0 catchall     material  10 ----------- is DISABLED:  ID= snow.melting1a+0.5veg                   
+EDinfo3
+EDinfo3:  group   0 catchall     material  11 ----------- is DISABLED:  ID= snow.melting9+0.5veg                    
+EDinfo3
+EDinfo3:  group   0 catchall     material  12 ----------- is DISABLED:  ID= snow.melting16+0.5veg                   
+EDinfo3
+EDinfo3:  group   0 catchall     material  13 ----------- is DISABLED:  ID= water.high.chlorophyll                  
+EDinfo3
+EDinfo3:  group   0 catchall     material  14 ----------- is DISABLED:  ID= water.low.chlorophyll                   
+EDinfo3
+EDinfo3:  group   0 catchall     material  15   is ENABLED:                  water.red.algae                                   
+EDinfo3:      g   0              material  15 featuee  1  is ENABLED
+EDinfo3:      g   0              material  15 featuee  2  is ENABLED
+EDinfo3:      g   0              material  15 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material  16   is ENABLED:                  water+mont16.5gpl                                 
+EDinfo3:      g   0              material  16 featuee  1  is ENABLED
+EDinfo3:      g   0              material  16 featuee  2  is ENABLED
+EDinfo3:      g   0              material  16 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material  17   is ENABLED:                  water+mont5.01gpl                                 
+EDinfo3:      g   0              material  17 featuee  1  is ENABLED
+EDinfo3:      g   0              material  17 featuee  2  is ENABLED
+EDinfo3:      g   0              material  17 featuee  3  is ENABLED
+EDinfo3:      g   0              material  17 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material  18   is ENABLED:                  water+mont1.67gpl                                 
+EDinfo3:      g   0              material  18 featuee  1  is ENABLED
+EDinfo3:      g   0              material  18 featuee  2  is ENABLED
+EDinfo3:      g   0              material  18 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material  19   is ENABLED:                  water+mont0.5gpl                                  
+EDinfo3:      g   0              material  19 featuee  1  is ENABLED
+EDinfo3:      g   0              material  19 featuee  2  is ENABLED
+EDinfo3:      g   0              material  19 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   0 catchall     material  20 ----------- is DISABLED:  ID= dry_long_grass-thick                    
+EDinfo3
+EDinfo3:  group   0 catchall     material  21 ----------- is DISABLED:  ID= white_pvc_pipe                          
+EDinfo3
+EDinfo3:  group   0 catchall     material  22 ----------- is DISABLED:  ID= green_plastic_tarp                      
+EDinfo3
+EDinfo3
+EDinfo3:  group   1 1um region   material  23 ----------- is DISABLED:  ID= green_plastic_tarp_1um                  
+EDinfo3
+EDinfo3:  group   1 1um region   material  24   is ENABLED:                  fe3+_hematite.fine.gr.gds76                       
+EDinfo3:      g   1              material  24 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  24 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  25   is ENABLED:                  fe3+_goethite.medgr.ws222                         
+EDinfo3:      g   1              material  25 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  25 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  26   is ENABLED:                  fe3+_goethite+qtz.medgr.gds240                    
+EDinfo3:      g   1              material  26 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  26 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  27   is ENABLED:                  fe3+_goethite.fingr                               
+EDinfo3:      g   1              material  27 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  27 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  28   is ENABLED:                  fe3+_goethite.medcoarsegr.mpc.trjar               
+EDinfo3:      g   1              material  28 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  28 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  29   is ENABLED:                  fe3+_goethite.coarsegr                            
+EDinfo3:      g   1              material  29 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  29 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  30   is ENABLED:                  fe3+_goethite.thincoat                            
+EDinfo3:      g   1              material  30 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  30 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  31   is ENABLED:                  fe3+_goeth+jarosite                               
+EDinfo3:      g   1              material  31 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  31 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  32 ----------- is DISABLED:  ID= pyrite                                  
+EDinfo3
+EDinfo3:  group   1 1um region   material  33   is ENABLED:                  fe3+_sulfate_schwertmannite                       
+EDinfo3:      g   1              material  33 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  33 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  34 ----------- is DISABLED:  ID= Mn-Coating                              
+EDinfo3
+EDinfo3:  group   1 1um region   material  35   is ENABLED:                  fe3+mix_AMD.assemb1                               
+EDinfo3:      g   1              material  35 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  35 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  36   is ENABLED:                  fe3+mix_AMD.assemb2                               
+EDinfo3:      g   1              material  36 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  36 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  37 ----------- is DISABLED:  ID= kjarosite200                            
+EDinfo3
+EDinfo3:  group   1 1um region   material  38   is ENABLED:                  fe3+_goethite.lepidocrosite                       
+EDinfo3:      g   1              material  38 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  38 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  39 ----------- is DISABLED:  ID= chlor+muscphy                           
+EDinfo3
+EDinfo3:  group   1 1um region   material  40 ----------- is DISABLED:  ID= Fe2++goeth+musc                         
+EDinfo3
+EDinfo3:  group   1 1um region   material  41 ----------- is DISABLED:  ID= chlor+goeth.propylzone                  
+EDinfo3
+EDinfo3:  group   1 1um region   material  42 ----------- is DISABLED:  ID= generic.Fe2+nrw.cummingtonite           
+EDinfo3
+EDinfo3:  group   1 1um region   material  43 ----------- is DISABLED:  ID= generic.Fe2+nrw.actinolite              
+EDinfo3
+EDinfo3:  group   1 1um region   material  44 ----------- is DISABLED:  ID= generic.Fe2+nrw.hs-actinolite           
+EDinfo3
+EDinfo3:  group   1 1um region   material  45 ----------- is DISABLED:  ID= pyroxene.hypersthene.pyx02.e.g1         
+EDinfo3
+EDinfo3:  group   1 1um region   material  46 ----------- is DISABLED:  ID= fe2+pyroxene.diopside                   
+EDinfo3
+EDinfo3:  group   1 1um region   material  47 ----------- is DISABLED:  ID= generic.Fe2+med.jadeite                 
+EDinfo3
+EDinfo3:  group   1 1um region   material  48 ----------- is DISABLED:  ID= pigeonite                               
+EDinfo3
+EDinfo3:  group   1 1um region   material  49   is ENABLED:                  epidote                                           
+EDinfo3:      g   1              material  49 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  49 featuee  2  ---------- is DISABLED
+EDinfo3:      g   1              material  49 featuee  3  ---------- is DISABLED
+EDinfo3:      g   1              material  49 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  50   is ENABLED:                  fe3+bearing1                                      
+EDinfo3:      g   1              material  50 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  50 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  51   is ENABLED:                  fe3+_ferrihydrite                                 
+EDinfo3:      g   1              material  51 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  51 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  52   is ENABLED:                  fe3+_hematite.med.gr.gds27                        
+EDinfo3:      g   1              material  52 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  52 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  53   is ENABLED:                  fe3+_hematite.thincoat                            
+EDinfo3:      g   1              material  53 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  53 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  54   is ENABLED:                  fe3+_hematite.fine.gr.fe2602                      
+EDinfo3:      g   1              material  54 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  54 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  55   is ENABLED:                  fe3+_hematite.fine.gr.ws161                       
+EDinfo3:      g   1              material  55 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  55 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  56   is ENABLED:                  fe3+_smectite_nontronite                          
+EDinfo3:      g   1              material  56 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  56 featuee  2  ---------- is DISABLED
+EDinfo3:      g   1              material  56 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  57 ----------- is DISABLED:  ID= generic.Fe2+brd.br5a_actinolite         
+EDinfo3
+EDinfo3:  group   1 1um region   material  58 ----------- is DISABLED:  ID= Fe2+_and_hematite_br5b                  
+EDinfo3
+EDinfo3:  group   1 1um region   material  59 ----------- is DISABLED:  ID= generic.Fe2+brd.br22c_actinolite        
+EDinfo3
+EDinfo3:  group   1 1um region   material  60   is ENABLED:                  fe2+generic_br33a_bioqtzmonz_epidote              
+EDinfo3:      g   1              material  60 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  60 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  61 ----------- is DISABLED:  ID= generic.Fe2+brd.br36a_chlorite          
+EDinfo3
+EDinfo3:  group   1 1um region   material  62 ----------- is DISABLED:  ID= Fe2+_hematite_weathering                
+EDinfo3
+EDinfo3:  group   1 1um region   material  63 ----------- is DISABLED:  ID= generic.Fe2+basalt_br46b                
+EDinfo3
+EDinfo3:  group   1 1um region   material  64   is ENABLED:                  fe3+_hematite.lg.gr.br25a                         
+EDinfo3:      g   1              material  64 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  64 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  65   is ENABLED:                  fe3+_hematite.med.gr.br25b                        
+EDinfo3:      g   1              material  65 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  65 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  66   is ENABLED:                  fe3+_hematite.lg.gr.br25c                         
+EDinfo3:      g   1              material  66 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  66 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  67   is ENABLED:                  fe3+_hematite.nano.BR34b2                         
+EDinfo3:      g   1              material  67 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  67 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  68   is ENABLED:                  fe3+_hematite.nano.BR34b2b                        
+EDinfo3:      g   1              material  68 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  68 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  69   is ENABLED:                  fe3+_hematite.lg.gr.br34c                         
+EDinfo3:      g   1              material  69 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  69 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  70   is ENABLED:                  fe3+_sulfate_jarosite_br34a2                      
+EDinfo3:      g   1              material  70 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  70 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  71 ----------- is DISABLED:  ID= generic.Fe2+.broad_br60b                
+EDinfo3
+EDinfo3:  group   1 1um region   material  72 ----------- is DISABLED:  ID= generic.Fe2+.vbroad_br20                
+EDinfo3
+EDinfo3:  group   1 1um region   material  73 ----------- is DISABLED:  ID= RTsludge                                
+EDinfo3
+EDinfo3:  group   1 1um region   material  74 ----------- is DISABLED:  ID= chlorite.clinochlor                     
+EDinfo3
+EDinfo3:  group   1 1um region   material  75 ----------- is DISABLED:  ID= chlorite.Felow.clinochlor               
+EDinfo3
+EDinfo3:  group   1 1um region   material  76 ----------- is DISABLED:  ID= chlorite.thuringite.smr-15.c.g1         
+EDinfo3
+EDinfo3:  group   1 1um region   material  77 ----------- is DISABLED:  ID= azurite.ws316.g1                        
+EDinfo3
+EDinfo3:  group   1 1um region   material  78 ----------- is DISABLED:  ID= pitchlimonite                           
+EDinfo3
+EDinfo3:  group   1 1um region   material  79 ----------- is DISABLED:  ID= malachite.hs254.3b.g1                   
+EDinfo3
+EDinfo3:  group   1 1um region   material  80   is ENABLED:                  copper_sulfate_bluefflor                          
+EDinfo3:      g   1              material  80 featuee  1  is ENABLED
+EDinfo3:      g   1              material  80 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  81   is ENABLED:                  copper_precipitate_greenslime                     
+EDinfo3:      g   1              material  81 featuee  1  is ENABLED
+EDinfo3:      g   1              material  81 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  82 ----------- is DISABLED:  ID= olivine-lrg-gr                          
+EDinfo3
+EDinfo3:  group   1 1um region   material  83 ----------- is DISABLED:  ID= olivine-fine-gr                         
+EDinfo3
+EDinfo3:  group   1 1um region   material  84 ----------- is DISABLED:  ID= rhodochrosite                           
+EDinfo3
+EDinfo3:  group   1 1um region   material  85 ----------- is DISABLED:  ID= siderite1                               
+EDinfo3
+EDinfo3:  group   1 1um region   material  86 ----------- is DISABLED:  ID= riebeckite                              
+EDinfo3
+EDinfo3:  group   1 1um region   material  87   is ENABLED:                  fe3+fe2+_sulfate_coquimbite                       
+EDinfo3:      g   1              material  87 featuee  1  is ENABLED
+EDinfo3:      g   1              material  87 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  88 ----------- is DISABLED:  ID= copiapite                               
+EDinfo3
+EDinfo3:  group   1 1um region   material  89 ----------- is DISABLED:  ID= chrysocolla.hs297.3b.g1                 
+EDinfo3
+EDinfo3:  group   1 1um region   material  90   is ENABLED:                  ree_neodymium_oxide                               
+EDinfo3:      g   1              material  90 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  90 featuee  2  ---------- is DISABLED
+EDinfo3:      g   1              material  90 featuee  3  ---------- is DISABLED
+EDinfo3:      g   1              material  90 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  91   is ENABLED:                  ree_samarium_oxide                                
+EDinfo3:      g   1              material  91 featuee  1  is ENABLED
+EDinfo3:      g   1              material  91 featuee  2  is ENABLED
+EDinfo3:      g   1              material  91 featuee  3  is ENABLED
+EDinfo3:      g   1              material  91 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  92 ----------- is DISABLED:  ID= axinite                                 
+EDinfo3
+EDinfo3:  group   1 1um region   material  93 ----------- is DISABLED:  ID= staurolite                              
+EDinfo3
+EDinfo3:  group   1 1um region   material  94 ----------- is DISABLED:  ID= almandine                               
+EDinfo3
+EDinfo3:  group   1 1um region   material  95 ----------- is DISABLED:  ID= augite                                  
+EDinfo3
+EDinfo3:  group   1 1um region   material  96 ----------- is DISABLED:  ID= pyroxene.bronzite.hs9.3b.g1             
+EDinfo3
+EDinfo3:  group   1 1um region   material  97   is ENABLED:                  fe2+generic_sulfate_butlerite                     
+EDinfo3:      g   1              material  97 featuee  1  is ENABLED
+EDinfo3:      g   1              material  97 featuee  2  is ENABLED
+EDinfo3:      g   1              material  97 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material  98 ----------- is DISABLED:  ID= feldspar.bytownite                      
+EDinfo3
+EDinfo3:  group   1 1um region   material  99   is ENABLED:                  sulfide_copper_chalcopyrite                       
+EDinfo3:      g   1              material  99 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material  99 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material 100 ----------- is DISABLED:  ID= chromite                                
+EDinfo3
+EDinfo3:  group   1 1um region   material 101 ----------- is DISABLED:  ID= cinnabar                                
+EDinfo3
+EDinfo3:  group   1 1um region   material 102 ----------- is DISABLED:  ID= cuprite                                 
+EDinfo3
+EDinfo3:  group   1 1um region   material 103 ----------- is DISABLED:  ID= desert.varnish1                         
+EDinfo3
+EDinfo3:  group   1 1um region   material 104 ----------- is DISABLED:  ID= desert.varnish2                         
+EDinfo3
+EDinfo3:  group   1 1um region   material 105 ----------- is DISABLED:  ID= enstatite                               
+EDinfo3
+EDinfo3:  group   1 1um region   material 106   is ENABLED:                  fe2+_pyroxene_hedenbergite                        
+EDinfo3:      g   1              material 106 featuee  1  is ENABLED
+EDinfo3:      g   1              material 106 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material 107   is ENABLED:                  sulfate_lazurite                                  
+EDinfo3:      g   1              material 107 featuee  1  is ENABLED
+EDinfo3:      g   1              material 107 featuee  2  is ENABLED
+EDinfo3:      g   1              material 107 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material 108   is ENABLED:                  fe3+_maghemite                                    
+EDinfo3:      g   1              material 108 featuee  1  ---------- is DISABLED
+EDinfo3:      g   1              material 108 featuee  2  ---------- is DISABLED
+EDinfo3:      g   1              material 108 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material 109 ----------- is DISABLED:  ID= magnetite                               
+EDinfo3
+EDinfo3:  group   1 1um region   material 110 ----------- is DISABLED:  ID= manganite                               
+EDinfo3
+EDinfo3:  group   1 1um region   material 111 ----------- is DISABLED:  ID= microcline                              
+EDinfo3
+EDinfo3:  group   1 1um region   material 112 ----------- is DISABLED:  ID= albite_hs143                            
+EDinfo3
+EDinfo3:  group   1 1um region   material 113 ----------- is DISABLED:  ID= orthoclase                              
+EDinfo3
+EDinfo3:  group   1 1um region   material 114 ----------- is DISABLED:  ID= inosilicate_pectolite                   
+EDinfo3
+EDinfo3:  group   1 1um region   material 115   is ENABLED:                  mn2+_rhodonite                                    
+EDinfo3:      g   1              material 115 featuee  1  is ENABLED
+EDinfo3:      g   1              material 115 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   1 1um region   material 116 ----------- is DISABLED:  ID= sulfur                                  
+EDinfo3
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 117 ----------- is DISABLED:  ID= dryveg.grass.long                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 118 ----------- is DISABLED:  ID= dryveg.grass.golden                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 119 ----------- is DISABLED:  ID= dryveg.wood                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 120 ----------- is DISABLED:  ID= plastic.tarp1                           
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 121 ----------- is DISABLED:  ID= plastic.Vinyl                           
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 122 ----------- is DISABLED:  ID= fiberglass.roofing                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 123 ----------- is DISABLED:  ID= plastic.polystyrene                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 124 ----------- is DISABLED:  ID= plastic.pete                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 125 ----------- is DISABLED:  ID= plastic.pete2                           
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 126 ----------- is DISABLED:  ID= plastic.hdpe.1                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 127 ----------- is DISABLED:  ID= paint.1                                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 128   is ENABLED:                  organic_plastic-pete3                             
+EDinfo3:      g   2              material 128 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 128 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 128 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 129   is ENABLED:                  organic_plastic-pete4                             
+EDinfo3:      g   2              material 129 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 129 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 129 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 130   is ENABLED:                  sulfate_kalun150c                                 
+EDinfo3:      g   2              material 130 featuee  1  is ENABLED
+EDinfo3:      g   2              material 130 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 131   is ENABLED:                  sulfate_kalun250c                                 
+EDinfo3:      g   2              material 131 featuee  1  is ENABLED
+EDinfo3:      g   2              material 131 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 132   is ENABLED:                  sulfate_kalun450c                                 
+EDinfo3:      g   2              material 132 featuee  1  is ENABLED
+EDinfo3:      g   2              material 132 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 133   is ENABLED:                  sulfate_naalun150c                                
+EDinfo3:      g   2              material 133 featuee  1  is ENABLED
+EDinfo3:      g   2              material 133 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 134   is ENABLED:                  sulfate_naalun300c                                
+EDinfo3:      g   2              material 134 featuee  1  is ENABLED
+EDinfo3:      g   2              material 134 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 135   is ENABLED:                  sulfate_naalun450c                                
+EDinfo3:      g   2              material 135 featuee  1  is ENABLED
+EDinfo3:      g   2              material 135 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 136   is ENABLED:                  sulfate_na82alun100c                              
+EDinfo3:      g   2              material 136 featuee  1  is ENABLED
+EDinfo3:      g   2              material 136 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 137   is ENABLED:                  sulfate+kaolingrp_natroalun+dickite               
+EDinfo3:      g   2              material 137 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 137 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 137 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 138   is ENABLED:                  sulfate_na63alun300c                              
+EDinfo3:      g   2              material 138 featuee  1  is ENABLED
+EDinfo3:      g   2              material 138 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 139   is ENABLED:                  sulfate_na40alun400c                              
+EDinfo3:      g   2              material 139 featuee  1  is ENABLED
+EDinfo3:      g   2              material 139 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 140   is ENABLED:                  sulfate_alunNa03                                  
+EDinfo3:      g   2              material 140 featuee  1  is ENABLED
+EDinfo3:      g   2              material 140 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 141   is ENABLED:                  sulfate_alunNa56450c                              
+EDinfo3:      g   2              material 141 featuee  1  is ENABLED
+EDinfo3:      g   2              material 141 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 142   is ENABLED:                  sulfate_alunNa78.450c                             
+EDinfo3:      g   2              material 142 featuee  1  is ENABLED
+EDinfo3:      g   2              material 142 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 143   is ENABLED:                  sulfate_alun35K65Na.low                           
+EDinfo3:      g   2              material 143 featuee  1  is ENABLED
+EDinfo3:      g   2              material 143 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 144   is ENABLED:                  sulfate_alun73K27Na.low                           
+EDinfo3:      g   2              material 144 featuee  1  is ENABLED
+EDinfo3:      g   2              material 144 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 145   is ENABLED:                  sulfate_alun66K34Na.low                           
+EDinfo3:      g   2              material 145 featuee  1  is ENABLED
+EDinfo3:      g   2              material 145 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 146 ----------- is DISABLED:  ID= muscovite-med-Al                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 147 ----------- is DISABLED:  ID= muscovite-medhigh-Al                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 148 ----------- is DISABLED:  ID= paragonite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 149 ----------- is DISABLED:  ID= illite                                  
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 150 ----------- is DISABLED:  ID= illite.gds4                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 151 ----------- is DISABLED:  ID= muscovite-low-Al                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 152 ----------- is DISABLED:  ID= muscoviteFerich                         
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 153 ----------- is DISABLED:  ID= kaolwxl                                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 154 ----------- is DISABLED:  ID= kaolpxl                                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 155 ----------- is DISABLED:  ID= halloy                                  
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 156 ----------- is DISABLED:  ID= kaolgrp_nacrite                         
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 157 ----------- is DISABLED:  ID= dickite                                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 158   is ENABLED:                  sulfate_gypsum                                    
+EDinfo3:      g   2              material 158 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 158 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 158 featuee  3  ---------- is DISABLED
+EDinfo3:      g   2              material 158 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 159 ----------- is DISABLED:  ID= kaolin.5+smect.5                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 160 ----------- is DISABLED:  ID= kaolin.3+smect.7                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 161 ----------- is DISABLED:  ID= montna                                  
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 162 ----------- is DISABLED:  ID= montmorillonite_fe                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 163 ----------- is DISABLED:  ID= montca                                  
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 164 ----------- is DISABLED:  ID= hydrated_basaltic_glass                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 165 ----------- is DISABLED:  ID= kieserite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 166 ----------- is DISABLED:  ID= szomolnokite                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 167 ----------- is DISABLED:  ID= szomolnokite_heated                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 168 ----------- is DISABLED:  ID= perchlorate_mg                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 169 ----------- is DISABLED:  ID= perchlorate_na                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 170 ----------- is DISABLED:  ID= beidellite_gds123                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 171 ----------- is DISABLED:  ID= beidellite_gds124                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 172 ----------- is DISABLED:  ID= chalcedony                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 173 ----------- is DISABLED:  ID= diaspore.hs416.3b.g2                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 174 ----------- is DISABLED:  ID= pyrophyllite                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 175 ----------- is DISABLED:  ID= kaol.75+pyroph.25                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 176 ----------- is DISABLED:  ID= pyroph.5+mont0.5                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 177   is ENABLED:                  pyroph.5+alunit.5                                 
+EDinfo3:      g   2              material 177 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 177 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 177 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 178   is ENABLED:                  alunite+pyrophyl                                  
+EDinfo3:      g   2              material 178 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 178 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 178 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 179 ----------- is DISABLED:  ID= pyroph+tr.musc                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 180 ----------- is DISABLED:  ID= musc+pyroph                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 181 ----------- is DISABLED:  ID= alunite+musc+pyroph                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 182   is ENABLED:                  alunite.5+kaol.5                                  
+EDinfo3:      g   2              material 182 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 182 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 182 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 183   is ENABLED:                  kaol.75+alun.25                                   
+EDinfo3:      g   2              material 183 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 183 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 183 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 184   is ENABLED:                  Kalun+kaol.intmx                                  
+EDinfo3:      g   2              material 184 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 184 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 184 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 185   is ENABLED:                  Na-alun+kaol.intmx                                
+EDinfo3:      g   2              material 185 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 185 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 185 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 186 ----------- is DISABLED:  ID= kaolin.5+muscov.medAl                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 187 ----------- is DISABLED:  ID= kaolin.5+muscov.medhighAl               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 188 ----------- is DISABLED:  ID= kaolin+musc.intimat                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 189 ----------- is DISABLED:  ID= musc+jarosite.intimat                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 190   is ENABLED:                  sulfate-mix_gypsum+jar+illite.intmix              
+EDinfo3:      g   2              material 190 featuee  1  is ENABLED
+EDinfo3:      g   2              material 190 featuee  2  is ENABLED
+EDinfo3:      g   2              material 190 featuee  3  is ENABLED
+EDinfo3:      g   2              material 190 featuee  4  is ENABLED
+EDinfo3:      g   2              material 190 featuee  5  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 191   is ENABLED:                  sulfate-mix_gyp+jar+musc.amix                     
+EDinfo3:      g   2              material 191 featuee  1  is ENABLED
+EDinfo3:      g   2              material 191 featuee  2  is ENABLED
+EDinfo3:      g   2              material 191 featuee  3  is ENABLED
+EDinfo3:      g   2              material 191 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 192   is ENABLED:                  sulfate-mix_gyp+jar+musc+dick.amix                
+EDinfo3:      g   2              material 192 featuee  1  is ENABLED
+EDinfo3:      g   2              material 192 featuee  2  is ENABLED
+EDinfo3:      g   2              material 192 featuee  3  is ENABLED
+EDinfo3:      g   2              material 192 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 193   is ENABLED:                  musc+gyp+jar+dick.amix                            
+EDinfo3:      g   2              material 193 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 193 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 193 featuee  3  ---------- is DISABLED
+EDinfo3:      g   2              material 193 featuee  4  ---------- is DISABLED
+EDinfo3:      g   2              material 193 featuee  5  ---------- is DISABLED
+EDinfo3:      g   2              material 193 featuee  6  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 194   is ENABLED:                  dick+musc+gyp+jar.amix                            
+EDinfo3:      g   2              material 194 featuee  1  is ENABLED
+EDinfo3:      g   2              material 194 featuee  2  is ENABLED
+EDinfo3:      g   2              material 194 featuee  3  is ENABLED
+EDinfo3:      g   2              material 194 featuee  4  is ENABLED
+EDinfo3:      g   2              material 194 featuee  5  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 195   is ENABLED:                  alunite.5+musc.5                                  
+EDinfo3:      g   2              material 195 featuee  1  is ENABLED
+EDinfo3:      g   2              material 195 featuee  2  is ENABLED
+EDinfo3:      g   2              material 195 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 196   is ENABLED:                  alunite.33+kaol.33+musc.33                        
+EDinfo3:      g   2              material 196 featuee  1  is ENABLED
+EDinfo3:      g   2              material 196 featuee  2  is ENABLED
+EDinfo3:      g   2              material 196 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 197 ----------- is DISABLED:  ID= muscovite+chlorite                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 198 ----------- is DISABLED:  ID= ammonillsmec                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 199 ----------- is DISABLED:  ID= buddington                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 200 ----------- is DISABLED:  ID= buddington.namont                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 201 ----------- is DISABLED:  ID= buddington.namont2                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 202   is ENABLED:                  sulfate_ammonalunite                              
+EDinfo3:      g   2              material 202 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 202 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 202 featuee  3  ---------- is DISABLED
+EDinfo3:      g   2              material 202 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 203   is ENABLED:                  sulfate_ammonjarosite                             
+EDinfo3:      g   2              material 203 featuee  1  is ENABLED
+EDinfo3:      g   2              material 203 featuee  2  is ENABLED
+EDinfo3:      g   2              material 203 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 204 ----------- is DISABLED:  ID= dolomite                                
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 205 ----------- is DISABLED:  ID= actinolite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 206 ----------- is DISABLED:  ID= amphibole                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 207 ----------- is DISABLED:  ID= biotite_HS28.3B                         
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 208 ----------- is DISABLED:  ID= biotite-phlogopite-P23-5                
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 209 ----------- is DISABLED:  ID= chlorite-skarn                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 210 ----------- is DISABLED:  ID= chlorite                                
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 211 ----------- is DISABLED:  ID= prehnite+.50chlorite                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 212 ----------- is DISABLED:  ID= prehnite+.67chlorite                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 213 ----------- is DISABLED:  ID= prehnite+.75chlorite                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 214 ----------- is DISABLED:  ID= aragonite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 215 ----------- is DISABLED:  ID= clinochlore.gds158                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 216 ----------- is DISABLED:  ID= clinochlore.nmnh83369                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 217 ----------- is DISABLED:  ID= clinochlore.fe.gds157                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 218 ----------- is DISABLED:  ID= clinochlore.fe.sc-cca-1                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 219 ----------- is DISABLED:  ID= cookeite-CAr-1.a                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 220 ----------- is DISABLED:  ID= cookeite-CAr-1.c                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 221 ----------- is DISABLED:  ID= chlorite.thuringite.smr-15.b.g2         
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 222   is ENABLED:                  epidote                                           
+EDinfo3:      g   2              material 222 featuee  1  is ENABLED
+EDinfo3:      g   2              material 222 featuee  2  is ENABLED
+EDinfo3:      g   2              material 222 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 223 ----------- is DISABLED:  ID= hornblende                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 224 ----------- is DISABLED:  ID= jarosite-Na                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 225 ----------- is DISABLED:  ID= jarosite-K                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 226 ----------- is DISABLED:  ID= jarosite-lowT                           
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 227 ----------- is DISABLED:  ID= phlogopite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 228 ----------- is DISABLED:  ID= tremolite.or.talc                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 229 ----------- is DISABLED:  ID= talc.crsgrnd                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 230 ----------- is DISABLED:  ID= talc.fngrnd                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 231 ----------- is DISABLED:  ID= talc+calcite.parkcity                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 232 ----------- is DISABLED:  ID= talc+carbonate.parkcity                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 233 ----------- is DISABLED:  ID= calcite+0.2Ca-mont                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 234 ----------- is DISABLED:  ID= magnesite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 235 ----------- is DISABLED:  ID= calcite.ws272.g2                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 236 ----------- is DISABLED:  ID= calcite+dolomite.5                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 237 ----------- is DISABLED:  ID= dolo+.5ca-mont                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 238 ----------- is DISABLED:  ID= calcite.25+dolom.25+Na-mont.5           
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 239 ----------- is DISABLED:  ID= calcite.25+dolom.25+Ca-mont.5           
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 240 ----------- is DISABLED:  ID= siderite                                
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 241 ----------- is DISABLED:  ID= nontronite.ng-1.a.g2                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 242 ----------- is DISABLED:  ID= hectorite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 243 ----------- is DISABLED:  ID= saponite.or.talc                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 244 ----------- is DISABLED:  ID= sepiolite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 245 ----------- is DISABLED:  ID= calcite+0.2Na-mont                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 246 ----------- is DISABLED:  ID= calcite+0.5Ca-mont                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 247 ----------- is DISABLED:  ID= calcite+0.3muscovite                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 248 ----------- is DISABLED:  ID= drygrass+.17Na-mont                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 249 ----------- is DISABLED:  ID= dolomite.5+Na-mont.5                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 250 ----------- is DISABLED:  ID= calcite.33+Ca-mont.67                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 251 ----------- is DISABLED:  ID= calcite+0.2kaolwxl                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 252 ----------- is DISABLED:  ID= calcite0.7+kaol0.3                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 253 ----------- is DISABLED:  ID= clintonite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 254 ----------- is DISABLED:  ID= palygorskite                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 255 ----------- is DISABLED:  ID= zoisite                                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 256   is ENABLED:                  elbaite                                           
+EDinfo3:      g   2              material 256 featuee  1  is ENABLED
+EDinfo3:      g   2              material 256 featuee  2  is ENABLED
+EDinfo3:      g   2              material 256 featuee  3  is ENABLED
+EDinfo3:      g   2              material 256 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 257   is ENABLED:                  hydroxide_gibbsite                                
+EDinfo3:      g   2              material 257 featuee  1  is ENABLED
+EDinfo3:      g   2              material 257 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 258 ----------- is DISABLED:  ID= niter                                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 259 ----------- is DISABLED:  ID= topaz                                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 260 ----------- is DISABLED:  ID= rhodochrosite.hs338.3b.g2               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 261 ----------- is DISABLED:  ID= witherite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 262   is ENABLED:                  prehnite                                          
+EDinfo3:      g   2              material 262 featuee  1  is ENABLED
+EDinfo3:      g   2              material 262 featuee  2  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 263   is ENABLED:                  prehnite+muscovite                                
+EDinfo3:      g   2              material 263 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 263 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 263 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 264   is ENABLED:                  borate_pinnoite                                   
+EDinfo3:      g   2              material 264 featuee  1  is ENABLED
+EDinfo3:      g   2              material 264 featuee  2  is ENABLED
+EDinfo3:      g   2              material 264 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 265   is ENABLED:                  polyhalite                                        
+EDinfo3:      g   2              material 265 featuee  1  is ENABLED
+EDinfo3:      g   2              material 265 featuee  2  is ENABLED
+EDinfo3:      g   2              material 265 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 266   is ENABLED:                  rivadavite                                        
+EDinfo3:      g   2              material 266 featuee  1  is ENABLED
+EDinfo3:      g   2              material 266 featuee  2  is ENABLED
+EDinfo3:      g   2              material 266 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 267   is ENABLED:                  howlite                                           
+EDinfo3:      g   2              material 267 featuee  1  is ENABLED
+EDinfo3:      g   2              material 267 featuee  2  is ENABLED
+EDinfo3:      g   2              material 267 featuee  3  is ENABLED
+EDinfo3:      g   2              material 267 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 268   is ENABLED:                  ulexite                                           
+EDinfo3:      g   2              material 268 featuee  1  is ENABLED
+EDinfo3:      g   2              material 268 featuee  2  is ENABLED
+EDinfo3:      g   2              material 268 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 269 ----------- is DISABLED:  ID= white.crust                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 270   is ENABLED:                  zeolite_analcime                                  
+EDinfo3:      g   2              material 270 featuee  1  is ENABLED
+EDinfo3:      g   2              material 270 featuee  2  is ENABLED
+EDinfo3:      g   2              material 270 featuee  3  is ENABLED
+EDinfo3:      g   2              material 270 featuee  4  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 271 ----------- is DISABLED:  ID= brucite                                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 272   is ENABLED:                  chloride_carnallite                               
+EDinfo3:      g   2              material 272 featuee  1  is ENABLED
+EDinfo3:      g   2              material 272 featuee  2  is ENABLED
+EDinfo3:      g   2              material 272 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 273 ----------- is DISABLED:  ID= colemanite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 274 ----------- is DISABLED:  ID= datolite                                
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 275 ----------- is DISABLED:  ID= hydrogrossular                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 276 ----------- is DISABLED:  ID= lepidolite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 277 ----------- is DISABLED:  ID= margarite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 278 ----------- is DISABLED:  ID= mascagnite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 279 ----------- is DISABLED:  ID= mirabilite-wet_soil                     
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 280   is ENABLED:                  zeolite_natrolite                                 
+EDinfo3:      g   2              material 280 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 280 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 280 featuee  3  ---------- is DISABLED
+EDinfo3:      g   2              material 280 featuee  4  ---------- is DISABLED
+EDinfo3:      g   2              material 280 featuee  5  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 281 ----------- is DISABLED:  ID= richterite                              
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 282 ----------- is DISABLED:  ID= chrysotile.coarse-fibrous               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 283 ----------- is DISABLED:  ID= chrysotile.med-fine-fibrous             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 284 ----------- is DISABLED:  ID= chrysotile.fine-fibrous                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 285 ----------- is DISABLED:  ID= cronstedtite_M3542                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 286 ----------- is DISABLED:  ID= illite.roscoelite                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 287 ----------- is DISABLED:  ID= strontianite                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 288 ----------- is DISABLED:  ID= syngenite                               
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 289 ----------- is DISABLED:  ID= chrysocolla.hs297.3b.g2                 
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 290 ----------- is DISABLED:  ID= azurite.ws316.g2                        
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 291 ----------- is DISABLED:  ID= malachite.hs254.3b.g2                   
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 292 ----------- is DISABLED:  ID= cyanide-CdK                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 293 ----------- is DISABLED:  ID= cyanide-NiK                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 294 ----------- is DISABLED:  ID= cyanide-trihydrate                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 295 ----------- is DISABLED:  ID= cyanide-KFe                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 296 ----------- is DISABLED:  ID= cyanide-ZnK                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 297 ----------- is DISABLED:  ID= plastic.grnhs.roof                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 298 ----------- is DISABLED:  ID= benzene+montswy                         
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 299 ----------- is DISABLED:  ID= trichlor                                
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 300 ----------- is DISABLED:  ID= toluene+montswy                         
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 301 ----------- is DISABLED:  ID= unleaded.gas                            
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 302   is ENABLED:                  organic_tce+montswy                               
+EDinfo3:      g   2              material 302 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 302 featuee  2  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 303   is ENABLED:                  zunyite                                           
+EDinfo3:      g   2              material 303 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 303 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 303 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 304   is ENABLED:                  sulfate-mix_gypsum.trace.dust+debris-WTC01-2      
+EDinfo3:      g   2              material 304 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 304 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 304 featuee  3  ---------- is DISABLED
+EDinfo3:      g   2              material 304 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 305   is ENABLED:                  sulfate-mix_gypsum.trace.dust+debris-WTC01-28     
+EDinfo3:      g   2              material 305 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 305 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 305 featuee  3  ---------- is DISABLED
+EDinfo3:      g   2              material 305 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 306   is ENABLED:                  chrysotile.gypsum.wtc01-8                         
+EDinfo3:      g   2              material 306 featuee  1  ---------- is DISABLED
+EDinfo3:      g   2              material 306 featuee  2  ---------- is DISABLED
+EDinfo3:      g   2              material 306 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 307 ----------- is DISABLED:  ID= portlandite                             
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 308 ----------- is DISABLED:  ID= potassium_nitrate                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 309 ----------- is DISABLED:  ID= sodium_nitrate                          
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 310 ----------- is DISABLED:  ID= vermiculite_GDS458                      
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 311 ----------- is DISABLED:  ID= vermiculite_ALB4SA00                    
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 312 ----------- is DISABLED:  ID= vermiculite_WS682                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 313 ----------- is DISABLED:  ID= vermiculite_WS681                       
+EDinfo3
+EDinfo3:  group   2 2-2.5um      material 314 ----------- is DISABLED:  ID= methane-gas-2.37um-experimental         
+EDinfo3
+EDinfo3
+EDinfo3:  group   3 veg detect   material 315   is ENABLED:                  vegetation.map                                    
+EDinfo3:      g   3              material 315 featuee  1  is ENABLED
+EDinfo3:      g   3              material 315 featuee  2  is ENABLED
+EDinfo3:      g   3              material 315 featuee  3  is ENABLED
+EDinfo3
+EDinfo3:  group   3 veg detect   material 316   is ENABLED:                  vegetation.weak.map                               
+EDinfo3:      g   3              material 316 featuee  1  ---------- is DISABLED
+EDinfo3:      g   3              material 316 featuee  2  ---------- is DISABLED
+EDinfo3:      g   3              material 316 featuee  3  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   3 veg detect   material 317   is ENABLED:                  vegetation.dry+green                              
+EDinfo3:      g   3              material 317 featuee  1  ---------- is DISABLED
+EDinfo3:      g   3              material 317 featuee  2  ---------- is DISABLED
+EDinfo3:      g   3              material 317 featuee  3  ---------- is DISABLED
+EDinfo3:      g   3              material 317 featuee  4  ---------- is DISABLED
+EDinfo3:      g   3              material 317 featuee  5  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group   3 veg detect   material 318 ----------- is DISABLED:  ID= vegetation.dry_nonphotosyn              
+EDinfo3
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 319 ----------- is DISABLED:  ID= anorthite_hs201.3b                      
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 320   is ENABLED:                  bytownite_hs106.3b                                
+EDinfo3:      g   4              material 320 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 321   is ENABLED:                  microcline_hs103.3b                               
+EDinfo3:      g   4              material 321 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 322 ----------- is DISABLED:  ID= magnetite_hs195.3b                      
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 323 ----------- is DISABLED:  ID= sphalerite_s26-341_1.5um                
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 324 ----------- is DISABLED:  ID= rutile_hs126.3b                         
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 325 ----------- is DISABLED:  ID= wollastonite_hs348.3b                   
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 326 ----------- is DISABLED:  ID= olivine_fo91_gds71.b                    
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 327 ----------- is DISABLED:  ID= olivine_fo89_gds70.a                    
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 328 ----------- is DISABLED:  ID= olivine_fo89_gds70.c                    
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 329 ----------- is DISABLED:  ID= olivine_fo89_gds70.d                    
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 330 ----------- is DISABLED:  ID= olivine_fo66_ki3054                     
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 331 ----------- is DISABLED:  ID= olivine_fo60_ki3189                     
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 332 ----------- is DISABLED:  ID= olivine_fo80_hs285.4b                   
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 333 ----------- is DISABLED:  ID= olivine_fo18_ki3377                     
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 334 ----------- is DISABLED:  ID= g4-fe2+generic_chlor+muscphy            
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 335 ----------- is DISABLED:  ID= g4-fe2+generic_chlorite.clinochlor      
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 336 ----------- is DISABLED:  ID= g4-fe2+generic_brd.br5a_actinolite      
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 337 ----------- is DISABLED:  ID= g4-fe2+generic_brd.br22c_actinolite     
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 338 ----------- is DISABLED:  ID= g4-fe2+generic_vbroad_br20              
+EDinfo3
+EDinfo3:  group   4 1.5um broad  material 339 ----------- is DISABLED:  ID= g4-generic.Fe2+nrw.cummingtonite        
+EDinfo3
+EDinfo3
+EDinfo3:  group   5 2um broad    material 340 ----------- is DISABLED:  ID= diaspore.hs416.3b.g5                    
+EDinfo3
+EDinfo3:  group   5 2um broad    material 341 ----------- is DISABLED:  ID= pyroxene.augite                         
+EDinfo3
+EDinfo3:  group   5 2um broad    material 342 ----------- is DISABLED:  ID= pyroxene.bronzite.hs9.3b.g5             
+EDinfo3
+EDinfo3:  group   5 2um broad    material 343 ----------- is DISABLED:  ID= pyroxene.enstatite                      
+EDinfo3
+EDinfo3:  group   5 2um broad    material 344 ----------- is DISABLED:  ID= pyroxene.hypersthene.pyx02.e.g5         
+EDinfo3
+EDinfo3:  group   5 2um broad    material 345 ----------- is DISABLED:  ID= pyroxene.pigeonite                      
+EDinfo3
+EDinfo3:  group   5 2um broad    material 346 ----------- is DISABLED:  ID= g5-water.1a-mix                         
+EDinfo3
+EDinfo3
+EDinfo3:  group   6 2.5um region material 347 ----------- is DISABLED:  ID= eugsterite.2.5um.water                  
+EDinfo3
+EDinfo3:  group   6 2.5um region material 348 ----------- is DISABLED:  ID= adularia_2.5um                          
+EDinfo3
+EDinfo3:  group   6 2.5um region material 349 ----------- is DISABLED:  ID= naalun450c.2.5um                        
+EDinfo3
+EDinfo3:  group   6 2.5um region material 350 ----------- is DISABLED:  ID= analcime.2.5um                          
+EDinfo3
+EDinfo3:  group   6 2.5um region material 351 ----------- is DISABLED:  ID= calcite.2.5um                           
+EDinfo3
+EDinfo3:  group   6 2.5um region material 352 ----------- is DISABLED:  ID= dolomite.2.5um                          
+EDinfo3
+EDinfo3:  group   6 2.5um region material 353 ----------- is DISABLED:  ID= magnesite.2.5um                         
+EDinfo3
+EDinfo3:  group   6 2.5um region material 354 ----------- is DISABLED:  ID= siderite.2.5um                          
+EDinfo3
+EDinfo3:  group   6 2.5um region material 355 ----------- is DISABLED:  ID= rhodochrosite.hs338.3b.g2.2.5um         
+EDinfo3
+EDinfo3:  group   6 2.5um region material 356 ----------- is DISABLED:  ID= witherite.2.5um                         
+EDinfo3
+EDinfo3:  group   6 2.5um region material 357 ----------- is DISABLED:  ID= strontianite.2.5um                      
+EDinfo3
+EDinfo3
+EDinfo3:  group   7 2.5-3um      material 358 ----------- is DISABLED:  ID= goethite_3.17um                         
+EDinfo3
+EDinfo3:  group   7 2.5-3um      material 359 ----------- is DISABLED:  ID= grossular_3.17um                        
+EDinfo3
+EDinfo3:  group   7 2.5-3um      material 360 ----------- is DISABLED:  ID= jarosite_3.18um                         
+EDinfo3
+EDinfo3
+EDinfo3:  group   8 3.2um region material 361 ----------- is DISABLED:  ID= oh2.72um_ref_pyrophyllite               
+EDinfo3
+EDinfo3:  group   8 3.2um region material 362 ----------- is DISABLED:  ID= oh2.75um_ref_muscovite_gds113           
+EDinfo3
+EDinfo3:  group   8 3.2um region material 363 ----------- is DISABLED:  ID= oh2.76um_ref_illite_gds4                
+EDinfo3
+EDinfo3:  group   8 3.2um region material 364 ----------- is DISABLED:  ID= oh2.81um_ref_tourmaline                 
+EDinfo3
+EDinfo3:  group   8 3.2um region material 365 ----------- is DISABLED:  ID= oh2.83um_ref_thenardite                 
+EDinfo3
+EDinfo3:  group   8 3.2um region material 366 ----------- is DISABLED:  ID= oh2.82um_ref_psilomelane                
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 367 ----------- is DISABLED:  ID= organic_3.237d_aromatic-benzene_curvc   
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 368 ----------- is DISABLED:  ID= organic_trace_aliphatic1_curvc          
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 369 ----------- is DISABLED:  ID= carbonate_calcite_3.5um_curvc           
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 370 ----------- is DISABLED:  ID= carbonate_dolomite_3.5um_curvc          
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 371 ----------- is DISABLED:  ID= carbonate_trace_3.5um_curvc             
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 372 ----------- is DISABLED:  ID= carbonate_trace-b_3.4um.curv            
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 373 ----------- is DISABLED:  ID= carbonate_trace-c_3.4um.curvc           
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 374 ----------- is DISABLED:  ID= carbonate_trace-c2b_3.4um.curvc         
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 375 ----------- is DISABLED:  ID= carbonate_trace-calcdolo_3.4um.curvc    
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 376 ----------- is DISABLED:  ID= carbonate_magnesite+hydromagnesite_curvc
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 377 ----------- is DISABLED:  ID= nitrate_niter_3.6um_curvc               
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 378 ----------- is DISABLED:  ID= co2_ice-on-moon62231.curvc              
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 379 ----------- is DISABLED:  ID= CO2_ice g0.0300cm.curvc                 
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 380 ----------- is DISABLED:  ID= CO2_ice g0.1000cm.curvc                 
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 381 ----------- is DISABLED:  ID= organic.3.41um.nonyne_curvc             
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 382 ----------- is DISABLED:  ID= organic.3.37um.pentene_curvc            
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 383 ----------- is DISABLED:  ID= organic.3.24um.pyridine_curvc           
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 384 ----------- is DISABLED:  ID= organic.3.25um.nitrobenzene_curvc       
+EDinfo3
+EDinfo3:  group  10 3.5um curveC material 385 ----------- is DISABLED:  ID= hydrogen_peroxide.3.52um_curvc          
+EDinfo3
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 386 ----------- is DISABLED:  ID= organic_3.237d_aromatic-benzene_linc    
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 387 ----------- is DISABLED:  ID= organic_trace_aliphatic1_linc           
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 388 ----------- is DISABLED:  ID= carbonate_calcite_3.5um_linc            
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 389 ----------- is DISABLED:  ID= carbonate_dolomite_3.5um_linc           
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 390 ----------- is DISABLED:  ID= carbonate_trace_3.5um_linc              
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 391 ----------- is DISABLED:  ID= carbonate_trace-b_3.4um_linc            
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 392 ----------- is DISABLED:  ID= carbonate_trace-c_3.4um_linc            
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 393 ----------- is DISABLED:  ID= carbonate_trace-c2b_3.4um.linc          
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 394 ----------- is DISABLED:  ID= carbonate_trace-calcdolo_3.4um_linc     
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 395 ----------- is DISABLED:  ID= magnesite+hydromagnesite_linc           
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 396 ----------- is DISABLED:  ID= nitrate_niter_3.6um_linc                
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 397 ----------- is DISABLED:  ID= co2_ice-on-moon62231_linc               
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 398 ----------- is DISABLED:  ID= CO2_ice g0.0300cm_linc                  
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 399 ----------- is DISABLED:  ID= CO2_ice g0.1000cm_linc                  
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 400 ----------- is DISABLED:  ID= organic.3.41um.nonyne_linc              
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 401 ----------- is DISABLED:  ID= organic.3.37um.pentene_linc             
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 402 ----------- is DISABLED:  ID= organic.3.24um.pyridine_linc            
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 403 ----------- is DISABLED:  ID= organic.3.25um.nitrobenzene_linc        
+EDinfo3
+EDinfo3:  group  11 3.5um linear material 404 ----------- is DISABLED:  ID= hydrogen_peroxide.3.52um_linc           
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 405   is ENABLED:                  oh_1.397_mica-phlogopite                          
+EDinfo3:      g  13              material 405 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 406   is ENABLED:                  oh_1.383_amphibole-richterite                     
+EDinfo3:      g  13              material 406 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 407   is ENABLED:                  oh_1.378_phyllo-ksg-chrysotile                    
+EDinfo3:      g  13              material 407 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 408   is ENABLED:                  oh_1.381_phyllo-ksg-dickite                       
+EDinfo3:      g  13              material 408 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 409   is ENABLED:                  oh_1.388_phyllo-chlorite                          
+EDinfo3:      g  13              material 409 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 410   is ENABLED:                  oh_1.385_phyllo-ksg-nacrite                       
+EDinfo3:      g  13              material 410 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 411   is ENABLED:                  oh_1.390_phyllo-ksg-endellite                     
+EDinfo3:      g  13              material 411 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 412   is ENABLED:                  oh_1.392_amphibole-tremolite                      
+EDinfo3:      g  13              material 412 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 413   is ENABLED:                  oh_1.392_smectite-saponite                        
+EDinfo3:      g  13              material 413 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 414   is ENABLED:                  oh_1.392_phyllo-ksg-lizardite                     
+EDinfo3:      g  13              material 414 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 415   is ENABLED:                  oh_1.393_phyllo-serpentine                        
+EDinfo3:      g  13              material 415 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 416   is ENABLED:                  oh_1.393_phyllo-talc                              
+EDinfo3:      g  13              material 416 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 417   is ENABLED:                  oh_1.394_phyllo-pyrophyllite                      
+EDinfo3:      g  13              material 417 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 418   is ENABLED:                  oh_1.395_phyllo-ksg-antigorite                    
+EDinfo3:      g  13              material 418 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 419   is ENABLED:                  oh_1.396_amphibole-actinolite                     
+EDinfo3:      g  13              material 419 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 420   is ENABLED:                  oh_1.398_phyllo-clinochlore                       
+EDinfo3:      g  13              material 420 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 421   is ENABLED:                  oh_1.396_amphibole-uralite                        
+EDinfo3:      g  13              material 421 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 422   is ENABLED:                  oh_1.398_amphibole-smaragdit                      
+EDinfo3:      g  13              material 422 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 423   is ENABLED:                  oh_1.398-phyllo-kaolinite-wxl                     
+EDinfo3:      g  13              material 423 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 424   is ENABLED:                  oh_1.400_phyllo-chlorgrp-cookeite                 
+EDinfo3:      g  13              material 424 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 425   is ENABLED:                  oh_1.401_mica-lepidolite                          
+EDinfo3:      g  13              material 425 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 426   is ENABLED:                  oh_1.406_silica-opal                              
+EDinfo3:      g  13              material 426 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 427   is ENABLED:                  oh_1.408_mica-paragonite                          
+EDinfo3:      g  13              material 427 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 428   is ENABLED:                  oh_1.409_mica-lepidolite                          
+EDinfo3:      g  13              material 428 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 429   is ENABLED:                  oh_1.4106_kaolin.5+muscov.medhighAl               
+EDinfo3:      g  13              material 429 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 430   is ENABLED:                  oh_1.413_phyllo-kaolinite-pxl                     
+EDinfo3:      g  13              material 430 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  13 1.3-1.4 nrw  material 431   is ENABLED:                  oh_1.432_phyllo-vermiculite                       
+EDinfo3:      g  13              material 431 featuee  1  is ENABLED
+EDinfo3
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 432   is ENABLED:                  ohb_1.385_phyllo-nacrite                          
+EDinfo3:      g  14              material 432 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 433   is ENABLED:                  ohb_1.398_phyllo-kaolinite-wxl                    
+EDinfo3:      g  14              material 433 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 434   is ENABLED:                  ohb_1.400_phyllo-cookeite                         
+EDinfo3:      g  14              material 434 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 435   is ENABLED:                  ohb_1.406_nesosil-topaz                           
+EDinfo3:      g  14              material 435 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 436   is ENABLED:                  ohb_1.406_tectosil-opal                           
+EDinfo3:      g  14              material 436 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 437   is ENABLED:                  ohb_1.408_mica-paragonite                         
+EDinfo3:      g  14              material 437 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 438   is ENABLED:                  ohb_1.409_phyllo-lepidolite                       
+EDinfo3:      g  14              material 438 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 439   is ENABLED:                  ohb_1.409_smectite-sauconite                      
+EDinfo3:      g  14              material 439 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 440   is ENABLED:                  ohb_1.410_phyllo-chrysocolla                      
+EDinfo3:      g  14              material 440 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 441   is ENABLED:                  ohb_1.410_kaolgrp-halloysite                      
+EDinfo3:      g  14              material 441 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 442   is ENABLED:                  ohb_1.410_mica-margarite                          
+EDinfo3:      g  14              material 442 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 443   is ENABLED:                  ohb_1.4106_kaolin.5+muscov.medhighAl              
+EDinfo3:      g  14              material 443 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 444   is ENABLED:                  ohb_1.410_mica-muscovite                          
+EDinfo3:      g  14              material 444 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 445   is ENABLED:                  ohb_1.411_smectite-montmor-swy                    
+EDinfo3:      g  14              material 445 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 446   is ENABLED:                  ohb_1.413_kaolgrp-kaolinite-pxl                   
+EDinfo3:      g  14              material 446 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 447   is ENABLED:                  ohb_1.413_nesosil-hydrogross                      
+EDinfo3:      g  14              material 447 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 448   is ENABLED:                  ohb_1.414_smectite-hectorite                      
+EDinfo3:      g  14              material 448 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 449   is ENABLED:                  ohb_1.416_phyllo-sepiolite                        
+EDinfo3:      g  14              material 449 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 450   is ENABLED:                  ohb_1.416_mica-roscoelite                         
+EDinfo3:      g  14              material 450 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 451   is ENABLED:                  ohb_1.416_mica-illite                             
+EDinfo3:      g  14              material 451 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 452   is ENABLED:                  ohb_1.416_smectite-montmor-saz                    
+EDinfo3:      g  14              material 452 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 453   is ENABLED:                  ohb_1.417_phyllo-palygorsk                        
+EDinfo3:      g  14              material 453 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 454   is ENABLED:                  ohb_1.418_mica_muscovite                          
+EDinfo3:      g  14              material 454 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 455   is ENABLED:                  ohb_1.418_zeolite_mordonite                       
+EDinfo3:      g  14              material 455 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 456   is ENABLED:                  ohb_1.419_zeolite-stilbite                        
+EDinfo3:      g  14              material 456 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 457   is ENABLED:                  ohb_1.419_zeolite-clinpt                          
+EDinfo3:      g  14              material 457 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 458   is ENABLED:                  ohb_1.422_zeolite-heuland                         
+EDinfo3:      g  14              material 458 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 459   is ENABLED:                  ohb_1.423_scapolute-meionite                      
+EDinfo3:      g  14              material 459 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 460   is ENABLED:                  ohb_1.424_smectite-nontronite                     
+EDinfo3:      g  14              material 460 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 461   is ENABLED:                  ohb_1.425_scapolite-mizzonite                     
+EDinfo3:      g  14              material 461 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 462   is ENABLED:                  ohb_1.425_sulfate-alunite                         
+EDinfo3:      g  14              material 462 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 463   is ENABLED:                  ohb_1.429_sodalite-lazurite                       
+EDinfo3:      g  14              material 463 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 464   is ENABLED:                  ohb_1.431_zeolite-laumontite                      
+EDinfo3:      g  14              material 464 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 465   is ENABLED:                  ohb_1.431_cyclosil-elbaite                        
+EDinfo3:      g  14              material 465 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 466   is ENABLED:                  ohb_1.435_tourmaline                              
+EDinfo3:      g  14              material 466 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 467   is ENABLED:                  ohb_1.438_sulfate-alunite-na                      
+EDinfo3:      g  14              material 467 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 468   is ENABLED:                  ohb_1.424_zeolite-analcime                        
+EDinfo3:      g  14              material 468 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 469   is ENABLED:                  ohb_1.436_sulfate-eugsterite                      
+EDinfo3:      g  14              material 469 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 470   is ENABLED:                  ohb_1.440_zeolite-scolecite                       
+EDinfo3:      g  14              material 470 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 471   is ENABLED:                  ohb_1.447_sulfate-gypsum                          
+EDinfo3:      g  14              material 471 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 472   is ENABLED:                  ohb_1.449_sulfate-schwertm                        
+EDinfo3:      g  14              material 472 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 473   is ENABLED:                  ohb_1.450_sulfate-copiapite                       
+EDinfo3:      g  14              material 473 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 474   is ENABLED:                  ohb_1.432_phyllo-vermiculite                      
+EDinfo3:      g  14              material 474 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 475   is ENABLED:                  ohb_1.455_zeolite-natrolite                       
+EDinfo3:      g  14              material 475 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  14 1.4-1.5 nrw  material 476   is ENABLED:                  ohb_1.451_hydroxide-gibbsite                      
+EDinfo3:      g  14              material 476 featuee  1  is ENABLED
+EDinfo3
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 477   is ENABLED:                  ohc_1.451_hydroxide-gibbsite                      
+EDinfo3:      g  15              material 477 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 478   is ENABLED:                  ohc_1.455_zeolite-natrolite                       
+EDinfo3:      g  15              material 478 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 479   is ENABLED:                  ohc_1.464_sulfate-bloedite                        
+EDinfo3:      g  15              material 479 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 480   is ENABLED:                  ohc_1.469_sulfate-jarosite-k                      
+EDinfo3:      g  15              material 480 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 481   is ENABLED:                  ohc_1.471_sulfate-jarosite-k                      
+EDinfo3:      g  15              material 481 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 482   is ENABLED:                  ohc_1.471_nesisil-datolite                        
+EDinfo3:      g  15              material 482 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 483   is ENABLED:                  ohc_1.478_sulfate-jarosite-na90c                  
+EDinfo3:      g  15              material 483 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 484   is ENABLED:                  ohc_1.479_sulfate-jarosite-na200c                 
+EDinfo3:      g  15              material 484 featuee  1  is ENABLED
+EDinfo3
+EDinfo3:  group  15 1.5um OH     material 485   is ENABLED:                  ohc_1.480_phyllo-prehnite                         
+EDinfo3:      g  15              material 485 featuee  1  is ENABLED
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 486 ----------- is DISABLED:  ID= water_1.896_beryl                       
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 487 ----------- is DISABLED:  ID= water_1.902_silica-opal                 
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 488 ----------- is DISABLED:  ID= water_1.903_smectite-saponite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 489 ----------- is DISABLED:  ID= water_1.906_montmor-na                  
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 490 ----------- is DISABLED:  ID= water_1.907_smectite-nontronite         
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 491 ----------- is DISABLED:  ID= water_1.908_smectite-beidell            
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 492 ----------- is DISABLED:  ID= water_1.908_phyllo-illite               
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 493 ----------- is DISABLED:  ID= water_1.909_mont-saz                    
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 494 ----------- is DISABLED:  ID= water_1.910_halloysite                  
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 495 ----------- is DISABLED:  ID= water_1.910_zeolite-clinopt             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 496 ----------- is DISABLED:  ID= water_1.910_stonwplaya                  
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 497 ----------- is DISABLED:  ID= water_1.910_zeolite-mordonite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 498 ----------- is DISABLED:  ID= water_1.912_zeolite-analcime            
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 499 ----------- is DISABLED:  ID= water_1.916_nesosil-sillim              
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 500 ----------- is DISABLED:  ID= water_1.917_zeolite-heuland             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 501 ----------- is DISABLED:  ID= water_1.920_sulfate-bassanite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 502 ----------- is DISABLED:  ID= water_1.918_perchlorate-mg              
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 503 ----------- is DISABLED:  ID= water_1.923_chert                       
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 504 ----------- is DISABLED:  ID= water_1.924_perchlorate-na              
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 505 ----------- is DISABLED:  ID= water_broad_1.927_veg                   
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 506 ----------- is DISABLED:  ID= water_1.929_sulfate-epsomite            
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 507 ----------- is DISABLED:  ID= water_1.931_narrow-cheatgrass           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 508 ----------- is DISABLED:  ID= water_1.932_sulfate-eusgterite          
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 509 ----------- is DISABLED:  ID= water_1.940_zeolite-natrolite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 510 ----------- is DISABLED:  ID= water_1.941_zeolite-natrolite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 511 ----------- is DISABLED:  ID= water_1.941_zeolite-scolecite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 512 ----------- is DISABLED:  ID= water_1.942_sulfate-schwert             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 513 ----------- is DISABLED:  ID= water_1.943_sulfate-gypsum              
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 514 ----------- is DISABLED:  ID= water_1.943_brick                       
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 515 ----------- is DISABLED:  ID= water_1.944_sulfate-polyhalite          
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 516 ----------- is DISABLED:  ID= water_1.946_sulfate-copiapite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 517 ----------- is DISABLED:  ID= water_1.951_sulfate-bloedite            
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 518 ----------- is DISABLED:  ID= water_1.960_sulfate-butler              
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 519 ----------- is DISABLED:  ID= water_1.964_sulfate-feso4               
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 520 ----------- is DISABLED:  ID= water_1.971_sulfate-kainite             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 521 ----------- is DISABLED:  ID= water_1.980_salt-carnallite             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 522 ----------- is DISABLED:  ID= water_1.981_sulfate-coquimb             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 523 ----------- is DISABLED:  ID= water_1.991_sulfate-syngite             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 524 ----------- is DISABLED:  ID= h20_ice_2.02um-77k-a                    
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 525 ----------- is DISABLED:  ID= water_2.073_sulfate-kieserite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 526 ----------- is DISABLED:  ID= water_2.060_sulfate_szomoln             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 527 ----------- is DISABLED:  ID= water_2.093_sulfate_szomoln             
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 528 ----------- is DISABLED:  ID= water_2.122_nh4-buddingt                
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 529 ----------- is DISABLED:  ID= water_2.130_sulfate_kieserite           
+EDinfo3
+EDinfo3:  group  19 1.9-2um H2O  material 530 ----------- is DISABLED:  ID= water_2.136_nh4-mascagnite              
+EDinfo3
+EDinfo3
+EDinfo3:  group  20 rare-earth   material 531   is ENABLED:                  neodymium_oxide_compete                           
+EDinfo3:      g  20              material 531 featuee  1  ---------- is DISABLED
+EDinfo3:      g  20              material 531 featuee  2  ---------- is DISABLED
+EDinfo3:      g  20              material 531 featuee  3  ---------- is DISABLED
+EDinfo3:      g  20              material 531 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3:  group  20 rare-earth   material 532   is ENABLED:                  samarium_oxide_compete                            
+EDinfo3:      g  20              material 532 featuee  1  is ENABLED
+EDinfo3:      g  20              material 532 featuee  2  is ENABLED
+EDinfo3:      g  20              material 532 featuee  3  is ENABLED
+EDinfo3:      g  20              material 532 featuee  4  is ENABLED
+EDinfo3
+EDinfo3
+EDinfo3:  group  21 Neodymium    material 533   is ENABLED:                  neodymium_oxide1                                  
+EDinfo3:      g  21              material 533 featuee  1  ---------- is DISABLED
+EDinfo3:      g  21              material 533 featuee  2  ---------- is DISABLED
+EDinfo3:      g  21              material 533 featuee  3  ---------- is DISABLED
+EDinfo3:      g  21              material 533 featuee  4  ---------- is DISABLED
+EDinfo3
+EDinfo3
+EDinfo3:  group  22 Samarium     material 534   is ENABLED:                  samarium_oxide1                                   
+EDinfo3:      g  22              material 534 featuee  1  is ENABLED
+EDinfo3:      g  22              material 534 featuee  2  is ENABLED
+EDinfo3:      g  22              material 534 featuee  3  is ENABLED
+EDinfo3:      g  22              material 534 featuee  4  is ENABLED
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3:  group  24 4-um region  material 535 ----------- is DISABLED:  ID= carbonate_calcite_4um_linc              
+EDinfo3
+EDinfo3:  group  24 4-um region  material 536 ----------- is DISABLED:  ID= carbonate_dolomite_4um_linc             
+EDinfo3
+EDinfo3:  group  24 4-um region  material 537 ----------- is DISABLED:  ID= carbonate_trace_4um_linc                
+EDinfo3
+EDinfo3:  group  24 4-um region  material 538 ----------- is DISABLED:  ID= carbonate_trace-b_4um_linc              
+EDinfo3
+EDinfo3:  group  24 4-um region  material 539 ----------- is DISABLED:  ID= carbonate_trace-c_4um_linc              
+EDinfo3
+EDinfo3:  group  24 4-um region  material 540 ----------- is DISABLED:  ID= carbonate_trace-calcdolo_4um_linc       
+EDinfo3
+EDinfo3:  group  24 4-um region  material 541 ----------- is DISABLED:  ID= magnesite+hydromagnesite_4umlinc        
+EDinfo3
+EDinfo3:  group  24 4-um region  material 542 ----------- is DISABLED:  ID= nitrate_niter_4.1um_linc                
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 543 ----------- is DISABLED:  ID= trapped-co2-4.24um_ref-beryl            
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 544 ----------- is DISABLED:  ID= trapped-co2-4.26um_ref-cordierite       
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 545 ----------- is DISABLED:  ID= trapped-co2-4.265um_ref-apatite         
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 546 ----------- is DISABLED:  ID= trapped-co2-4.268um_ref-microcline      
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 547 ----------- is DISABLED:  ID= trapped-co2-4.265um_ref-perthite        
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 548 ----------- is DISABLED:  ID= trapped-co2-4.269um_ref-rutile          
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 549 ----------- is DISABLED:  ID= trapped-co2-4.31um_ref-topaz            
+EDinfo3
+EDinfo3:  group  26 4.25um CO2   material 550 ----------- is DISABLED:  ID= trapped-co2-4.34um_ref-sillimanite      
+EDinfo3
+EDinfo3
+EDinfo3:  group  27 4.5um region material 551 ----------- is DISABLED:  ID= feldspar_adularia-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 552 ----------- is DISABLED:  ID= sulfate_alunite-na82-4.5um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 553 ----------- is DISABLED:  ID= sulfate_alunite-na83-4.5um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 554 ----------- is DISABLED:  ID= sulfate_alunite-na03-4.5um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 555 ----------- is DISABLED:  ID= sulfate_alunite--nh4-j-4.5um            
+EDinfo3
+EDinfo3:  group  27 4.5um region material 556 ----------- is DISABLED:  ID= sulfate_alunite-400c-4.5um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 557 ----------- is DISABLED:  ID= sulfate_alunite-na56-4.5um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 558 ----------- is DISABLED:  ID= sulfate_anhydrite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 559 ----------- is DISABLED:  ID= sulfate_barite-4.5um                    
+EDinfo3
+EDinfo3:  group  27 4.5um region material 560 ----------- is DISABLED:  ID= sulfate_bassanite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 561 ----------- is DISABLED:  ID= phyllosilicate_beidellite+montmor-4.5um 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 562 ----------- is DISABLED:  ID= sulfate_bloedite-4.5um                  
+EDinfo3
+EDinfo3:  group  27 4.5um region material 563 ----------- is DISABLED:  ID= sulfate_butlerite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 564 ----------- is DISABLED:  ID= carbonate_calcite-4.67um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 565 ----------- is DISABLED:  ID= sulfate_celestite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 566 ----------- is DISABLED:  ID= zeolite_chabazitemix-4.5um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 567 ----------- is DISABLED:  ID= cyanide_cyanide-cap-4.5um               
+EDinfo3
+EDinfo3:  group  27 4.5um region material 568 ----------- is DISABLED:  ID= cyanide_cyanide-nik-4.5um               
+EDinfo3
+EDinfo3:  group  27 4.5um region material 569 ----------- is DISABLED:  ID= cyanide_cyanide-znk-4.5um               
+EDinfo3
+EDinfo3:  group  27 4.5um region material 570 ----------- is DISABLED:  ID= carbonate_dolomite-4.63um               
+EDinfo3
+EDinfo3:  group  27 4.5um region material 571 ----------- is DISABLED:  ID= silicate_elbaite-4.5um                  
+EDinfo3
+EDinfo3:  group  27 4.5um region material 572 ----------- is DISABLED:  ID= sulfate_epsomite-4.5um                  
+EDinfo3
+EDinfo3:  group  27 4.5um region material 573 ----------- is DISABLED:  ID= zeolite_erionitemix-4.5um               
+EDinfo3
+EDinfo3:  group  27 4.5um region material 574 ----------- is DISABLED:  ID= sulfate_eugsterite-4.5um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 575 ----------- is DISABLED:  ID= sulfate_gypsum-4.5um                    
+EDinfo3
+EDinfo3:  group  27 4.5um region material 576 ----------- is DISABLED:  ID= fe3+_hematite_a-4.5um                   
+EDinfo3
+EDinfo3:  group  27 4.5um region material 577 ----------- is DISABLED:  ID= fe3+_hematite_c-4.5um                   
+EDinfo3
+EDinfo3:  group  27 4.5um region material 578 ----------- is DISABLED:  ID= zeolite_heulandite-4.5um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 579 ----------- is DISABLED:  ID= sulfate_kainite-4.5um                   
+EDinfo3
+EDinfo3:  group  27 4.5um region material 580 ----------- is DISABLED:  ID= sulfate_kieserite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 581 ----------- is DISABLED:  ID= zeolite_laumontite-4.5um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 582 ----------- is DISABLED:  ID= phyllosilicate_lepidolite-4.5um         
+EDinfo3
+EDinfo3:  group  27 4.5um region material 583 ----------- is DISABLED:  ID= carbonate_magnesite-4.59um              
+EDinfo3
+EDinfo3:  group  27 4.5um region material 584 ----------- is DISABLED:  ID= zeolite_mesolite-4.5um                  
+EDinfo3
+EDinfo3:  group  27 4.5um region material 585 ----------- is DISABLED:  ID= sulfate_mirabilite-4.5um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 586 ----------- is DISABLED:  ID= zeolite_natrolite-4.5um-nmnh            
+EDinfo3
+EDinfo3:  group  27 4.5um region material 587 ----------- is DISABLED:  ID= zeolite_natrolite-4.5um-hs168           
+EDinfo3
+EDinfo3:  group  27 4.5um region material 588 ----------- is DISABLED:  ID= sulfate_polyhalite-4.5um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 589 ----------- is DISABLED:  ID= carbonate_rhodochrosite-4.69um          
+EDinfo3
+EDinfo3:  group  27 4.5um region material 590 ----------- is DISABLED:  ID= feldspar_sanidine-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 591 ----------- is DISABLED:  ID= zeolite_scolecite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 592 ----------- is DISABLED:  ID= phyllosilicate_sepiolite-4.5um          
+EDinfo3
+EDinfo3:  group  27 4.5um region material 593 ----------- is DISABLED:  ID= carbonate_siderite-4.65um               
+EDinfo3
+EDinfo3:  group  27 4.5um region material 594 ----------- is DISABLED:  ID= carbonate_strontianite-4.70um           
+EDinfo3
+EDinfo3:  group  27 4.5um region material 595 ----------- is DISABLED:  ID= sulfate_syngenite-4.5um                 
+EDinfo3
+EDinfo3:  group  27 4.5um region material 596 ----------- is DISABLED:  ID= sulfate_thenardite-4.5um                
+EDinfo3
+EDinfo3:  group  27 4.5um region material 597 ----------- is DISABLED:  ID= carbonate_witherite-4.74um              
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3:  group  37 CH4 gas      material 598 ----------- is DISABLED:  ID= methane-gas-2.37um_g37-experimental     
+EDinfo3
+EDinfo3
+EDinfo3:  group  38 CO2 gas      material 599 ----------- is DISABLED:  ID= co2-gas-2um_g38-experimental            
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3
+EDinfo3

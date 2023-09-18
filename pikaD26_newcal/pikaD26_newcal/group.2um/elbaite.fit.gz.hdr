@@ -1,0 +1,15 @@
+ENVI
+description = {
+  elbaite NMNH94217-1.c <74um FITS F*D.hdr‘      
+  }
+ samples =          320
+ lines   =          702
+ bands   =            1
+ header offset =          320
+file compression = 1
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = spectral data
+byte order = 0
+wavelength units = Micrometers

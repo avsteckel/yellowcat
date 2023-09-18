@@ -1,0 +1,23 @@
+pw -c 13 -s 3 group.2um/sulfate_na63alun300c.fd.gz \
+group.2um/sulfate_alunite_int-comp.all.fd.gz \
+group.2um/sulfate-mix_gypsum.trace.dust+debris-WTC01-2.fd.gz \
+group.2um/sulfate_ammonalunite.fd.gz \
+group.2um/organic_tce+montswy.fd.gz \
+group.2um/rivadavite.fd.gz \
+group.2um/elbaite.fd.gz \
+group.2um/organic_plastic-pete4.fd.gz \
+group.2um/howlite.fd.gz \
+group.2um/sulfate_alunite_na.all.fd.gz \
+group.2um/hydroxide_gibbsite.fd.gz \
+group.2um/sulfate_na82alun100c.fd.gz \
+group.2um/sulfate_gypsum.fd.gz \
+group.2um/zeolite_analcime.fd.gz \
+group.2um/ulexite.fd.gz \
+group.2um/sulfate_naalun300c.fd.gz \
+group.2um/sulfate_ammonjarosite.fd.gz \
+group.2um/borate_pinnoite.fd.gz \
+group.2um/sulfate_na40alun400c.fd.gz \
+group.2um/sulfate_naalun450c.fd.gz \
+group.2um/polyhalite.fd.gz \
+group.2um/organic_plastic-pete3.fd.gz \
+group.2um/sulfate_kalun150c.fd.gz &

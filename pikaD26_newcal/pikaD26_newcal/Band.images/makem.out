@@ -1,0 +1,11 @@
+WARNING: cube is writable!  It should not be.
+../../cube/D26_1458_D-cal3.bil
+/usr/local/bin/aviris.to.TM: 78: /usr/local/bin/davinci.scripts/Scripts/aviris.to.TM1: not found
+/usr/local/bin/aviris.to.TM: 79: /usr/local/bin/davinci.scripts/Scripts/aviris.to.TM2: not found
+/usr/local/bin/aviris.to.TM: 80: /usr/local/bin/davinci.scripts/Scripts/aviris.to.TM3: not found
+/usr/local/bin/aviris.to.TM: 81: /usr/local/bin/davinci.scripts/Scripts/aviris.to.TM4: not found
+/usr/local/bin/aviris.to.TM: 82: /usr/local/bin/davinci.scripts/Scripts/aviris.to.TM5: not found
+/usr/local/bin/aviris.to.TM: 83: /usr/local/bin/davinci.scripts/Scripts/aviris.to.TM7: not found
+/usr/local/bin/aviris.to.TM: 102: /usr/local/bin/davinci.scripts/Scripts/image.ratio: not found
+/usr/local/bin/aviris.to.TM: 103: /usr/local/bin/davinci.scripts/Scripts/image.ratio: not found
+/usr/local/bin/aviris.to.TM: 104: /usr/local/bin/davinci.scripts/Scripts/image.ratio: not found
